@@ -1,0 +1,245 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "NTA-UGC NET textbook id-m01234/51",
+      "price": 300,
+      "description": "This concise book on Management is specially published for the candidates of UGC-NET for Eligibility to JRF & Assistant Professor positions...",
+      "category": "textbook",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685557.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Expert Oracle and Java Securityid-m01234/51",
+      "price": 300,
+      "description": "Expert Oracle and Java Security: Programming Secure Oracle Database Applications with Java provides resources that every Java and Oracle database application programmer needs to ensure that they have guarded the security of the data and identities entrusted to them...",
+      "category": "textbook",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685755.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 120
+      }
+    },
+    {
+      "id": 3,
+      "title": "Advanced Java Programming(Roy Uttam K.)",
+      "price": 500,
+      "description": "Divided into three parts, the book provides an exhaustive coverage of topics taught in advanced Java and other related subjects...",
+      "category": "textbook",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685785.jpg",
+      "rating": {
+        "rate": 3.2,
+        "count": 224
+      }
+    },
+    {
+      "id": 4,
+      "title": "React js for biggner",
+      "price": 700,
+      "description": "Get up and running with ReactJS by developing five cutting-edge and responsive projects...",
+      "category": "textbook",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685556.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 100
+      }
+    },
+    {
+      "id": 5,
+      "title": "React.js Essentials( Fedosejev Artemij)",
+      "price": 2123,
+      "description": "A fast-paced guide to designing and building scalable and maintainable web apps with React.js...",
+      "category": "textbook",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685555.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 344
+      }
+    },
+    {
+      "id": 6,
+      "title": "Thin and Light Laptop(15.6 Inch, Arctic Grey, 1.65 Kg)",
+      "price": 27990,
+      "description": "Processor: Intel Celeron N4500 processor, base speed 1.10 Ghz, max speed 2.8 Ghz...",
+      "category": "laptop",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685553.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 7,
+      "title": "HP 2023 AMD Ryzen 3 Dual Core 3250U",
+      "price": 31990,
+      "category": "laptop",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685551.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 8,
+      "title": "ASUS Vivobook Go 15 (2023)",
+      "price": 300,
+      "description": "ASUS Vivobook Go 15 (2023) AMD Ryzen 3 Quad Core 7320U - (8 GB/512 GB SSD/Windows 11 Home) E1504FA-NJ321WS Thin and Light Laptop  (15.6 Inch, Cool Silver, 1.63 Kg, With MS Office).",
+      "category": "laptop",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685821.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 360
+      }
+    },
+    {
+      "id": 9,
+      "title": "DELL Intel Core i3 12th Gen 1215U ",
+      "price": 35790,
+      "description": "DELL Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.65 Kg, With MS Office).",
+      "category": "laptop",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685827.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 10,
+      "title": "Dyazo Water Resistant Laptop Sleeve",
+      "price": 300,
+      "description": "Dyazo lightweight laptop case : Being light in weight makes the Dyazo sleeve case easy to use and convenient for the user...",
+      "category": "laptop bag",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685554.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 11,
+      "title": "Dyazo Water Resistant Laptop Sleeve with Handle Compatible ",
+      "price": 300,
+      "description": "Accessory for the laptop bag: Dyazo laptop bag is the perfect accessory for your laptop bag, featuring velvet lining that is both soft and thick thus will buffer shake as well as...",
+      "category": "laptop bag",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685557.jpg",
+      "rating": {
+        "rate": 4,
+        "count": 160
+      }
+    },
+    {
+      "id": 12,
+      "title": "Premium Neoprene Material ,blue color laptop bag ",
+      "price": 500,
+      "description": "SUPERIOR DESIGN & DURABILITY: Made with Premium Waterproof Neoprene Rubber, this kindle sleeve has reinforced stitching with heavy-duty YKK zippers...",
+      "category": "laptop bag",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685550.jpg",
+      "rating": {
+        "rate": 3.4,
+        "count": 150
+      }
+    },
+    {
+      "id": 13,
+      "title": "Lenovo 16-inch Value Lite Backpack",
+      "price": 900,
+      "description": "Designed for laptops up to 16 inches | Slim and sleek with a capacity of 11.5L...",
+      "category": "laptop bag",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685548.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 200
+      }
+    },
+    {
+      "id": 14,
+      "title": "F Gear Laptop Backpack",
+      "price": 1100,
+      "description": "Multiple compartments: this bag offers a large capacity with two compartments, two side pockets, one front pocket and a mesh inner pocket...",
+      "category": "laptop bag",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685552.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 100
+      }
+    },
+    {
+      "id": 15,
+      "title": "iQOO Z6 Lite 5G",
+      "price": 11999,
+      "description": "World's First Snapdragon 4 Gen 1 Processor, that allows you to level up your performance with confidence through its efficient 6nm Process...",
+      "category": "android",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685559.jpg",
+      "rating": {
+        "rate": 4,
+        "count": 188
+      }
+    },
+    {
+      "id": 16,
+      "title": "Samsung Galaxy M42 5G",
+      "price": 19999,
+      "description": "Qualcomm Snapdragon 750G Processor 5G...",
+      "category": "android",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685558.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 300
+      }
+    },
+    {
+      "id": 17,
+      "title": "Vivo Y75 5G",
+      "price": 17999,
+      "description": "Vivo Y75 5G 5G Phone with Qualcomm Snapdragon 695 Processor, 6.58 inch Full HD+ display, 5000mAh big battery with 18W fast charge...",
+      "category": "android",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685814.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 250
+      }
+    },
+    {
+      "id": 18,
+      "title": "Realme Narzo 30",
+      "price": 14999,
+      "description": "MediaTek Helio G95 Processor 5G...",
+      "category": "android",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685561.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 320
+      }
+    },
+    {
+      "id": 19,
+      "title": "OnePlus 12 Pro",
+      "price": 89999,
+      "description": "Qualcomm Snapdragon 8 Gen 2 Processor, 5G...",
+      "category": "android",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685560.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 450
+      }
+    },
+    {
+      "id": 20,
+      "title": "Apple iPhone 14",
+      "price": 99999,
+      "description": "Apple A16 Bionic Processor, 5G...",
+      "category": "ios",
+      "image": "https://images.benchmarkemail.com/client1677284/image15685816.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 500
+      }
+    }
+   
+    
+  ]
+}
